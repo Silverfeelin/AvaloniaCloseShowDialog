@@ -1,0 +1,6 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AvaloniaCloseShowDialog"
+        Width="100" Height="40">
+  <Button Name="btnShow">Open Dialog</Button>
+</Window>
